@@ -1,0 +1,14 @@
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\bin\x86\Debug\Quantum Player.exe.config
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\bin\x86\Debug\Quantum Player.exe
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\bin\x86\Debug\Quantum Player.pdb
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\bin\x86\Debug\Ropositorio.dll
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\bin\x86\Debug\taglib-sharp.dll
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\bin\x86\Debug\Ropositorio.pdb
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum_Player.Form1.resources
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum_Player.Properties.Resources.resources
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum Player.csproj.GenerateResource.cache
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum Player.csproj.CoreCompileInputs.cache
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum Player.csproj.CopyComplete
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum Player.exe
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum Player.pdb
+C:\Users\berse\source\repos\Quantum Player\Quantum Player\obj\x86\Debug\Quantum Player.csprojAssemblyReference.cache

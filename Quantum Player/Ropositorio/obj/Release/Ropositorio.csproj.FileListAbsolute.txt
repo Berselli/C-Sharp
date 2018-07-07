@@ -1,0 +1,13 @@
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\bin\Release\Ropositorio.dll
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\bin\Release\Ropositorio.pdb
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\bin\Release\taglib-sharp.dll
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Interop.WMPLib.dll
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.csproj.ResolveComReference.cache
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.Properties.Resources.resources
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.csproj.GenerateResource.cache
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.csproj.CoreCompileInputs.cache
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.csproj.CopyComplete
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.dll
+C:\Users\berse\source\repos\Quantum Player\Ropositorio\obj\Release\Ropositorio.pdb
